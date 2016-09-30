@@ -1,7 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PinTools", "PinTools.vcproj", "{7DD5604A-5559-4BBA-B810-F88184A16F0B}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PinTools", "PinTools.vcxproj", "{7DD5604A-5559-4BBA-B810-F88184A16F0B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindOEP", "FindOEP\FindOEP.vcxproj", "{153AB09A-8BE2-45A9-A2C6-74B70B521A1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +23,14 @@ Global
 		{7DD5604A-5559-4BBA-B810-F88184A16F0B}.Release|Win32.Build.0 = Release|Win32
 		{7DD5604A-5559-4BBA-B810-F88184A16F0B}.Release|x64.ActiveCfg = Release|x64
 		{7DD5604A-5559-4BBA-B810-F88184A16F0B}.Release|x64.Build.0 = Release|x64
+		{153AB09A-8BE2-45A9-A2C6-74B70B521A1F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{153AB09A-8BE2-45A9-A2C6-74B70B521A1F}.Debug|Win32.Build.0 = Debug|Win32
+		{153AB09A-8BE2-45A9-A2C6-74B70B521A1F}.Debug|x64.ActiveCfg = Debug|x64
+		{153AB09A-8BE2-45A9-A2C6-74B70B521A1F}.Debug|x64.Build.0 = Debug|x64
+		{153AB09A-8BE2-45A9-A2C6-74B70B521A1F}.Release|Win32.ActiveCfg = Release|Win32
+		{153AB09A-8BE2-45A9-A2C6-74B70B521A1F}.Release|Win32.Build.0 = Release|Win32
+		{153AB09A-8BE2-45A9-A2C6-74B70B521A1F}.Release|x64.ActiveCfg = Release|x64
+		{153AB09A-8BE2-45A9-A2C6-74B70B521A1F}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
